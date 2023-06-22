@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052129399446",
+    "project_id": "privatemessage-e2167",
+    "storage_bucket": "privatemessage-e2167.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052129399446:android:e1de77bbc4d5b7273ea8b7",
+        "android_client_info": {
+          "package_name": "com.example.private_message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052129399446-punfnl26r4bcbr7c7au1q78thkuh1brt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx9_xRnnOongsWFNtzOgzlLX9YX_FNN54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052129399446-punfnl26r4bcbr7c7au1q78thkuh1brt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
