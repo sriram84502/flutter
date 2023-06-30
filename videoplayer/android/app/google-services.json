@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799064857602",
+    "project_id": "videoshare-53458",
+    "storage_bucket": "videoshare-53458.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799064857602:android:902f486f2f989182819b1b",
+        "android_client_info": {
+          "package_name": "com.example.videoplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799064857602-75jk0d92qt54kjk6iioj7vf9jrcjvtii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDheXFNOMVMdH0hjU3pK1z8Ly1cDuireHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799064857602-75jk0d92qt54kjk6iioj7vf9jrcjvtii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -3,8 +3,6 @@ import 'package:pinput/pinput.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:private_message/api/firebaseapi.dart';
 import 'package:private_message/screens/home_screen.dart';
-import 'package:private_message/screens/login/login_screen.dart';
-import 'package:private_message/screens/login/setup_screen.dart';
 
 class OtpScreen extends StatefulWidget {
   final String verificationId;
